@@ -1,2 +1,2 @@
 # UGB-Achados-e-Perdidos
-criei o business model canvas agora
+criei o código frontend com html,css e javascript.
