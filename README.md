@@ -1,2 +1,2 @@
 # UGB-Achados-e-Perdidos
-criei o código frontend com html,css e javascript.
+fiz o diagrama MER do banco de dados do projeto 
