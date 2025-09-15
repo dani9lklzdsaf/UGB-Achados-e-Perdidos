@@ -1,1 +1,1 @@
-preenchimento de toda documentação, tamplates (relatorio final + PDCA) sobre o projeto
+15/09/2025 - Yury fez o acabamento do html, css e js do site a tarde
